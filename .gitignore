@@ -1,0 +1,18 @@
+# These are some examples of commonly ignored file patterns.
+# You should customize this list as applicable to your project.
+# Learn more about .gitignore:
+#     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+
+# Maven
+target/
+dist/
+
+# Files to be ignored of Eclipse, By default, patterns match files in any directory
+.classpath
+.project
+
+# Test NG directory ignored
+test-output/
+
+# Directories to be ignored of Eclipse
+.settings/
